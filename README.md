@@ -20,21 +20,6 @@ In this course, you'll learn to Create a Complete Dynamic and Fully Functional W
 [Click Here](https://www.youtube.com/watch?v=ZBgTzx46B8s&list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW) and Learn to develop a fully functional and dynamic **"Food Order System"** with PHP programming language and MySQL Database.
 
 
-## 👏 Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
-
-## Donate
-
-**[PayPal](https://bit.ly/support-vijay-thapa)**
-
-**[Buy me a Coffee  ☕️](https://www.buymeacoffee.com/vijaythapa)**
-
-**Donate by wire transfer:** E-Mail at *donate@vijaythapa.com* for wire transfer details. 
-
-
 ## 📖  How to Download the Project and Run on your PC?
 
 ### Pre-Requisites:
