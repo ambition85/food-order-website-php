@@ -15,11 +15,6 @@ In this course, you'll learn to Create a Complete Dynamic and Fully Functional W
 3. Admin can Manage Admin, Caegories and Food Items
 4. Admin can also Manage and Track Food Order and Delivery
 
-
-# 🎓 Access the Course
-[Click Here](https://www.youtube.com/watch?v=ZBgTzx46B8s&list=PLBLPjjQlnVXXBheMQrkv3UROskC0K1ctW) and Learn to develop a fully functional and dynamic **"Food Order System"** with PHP programming language and MySQL Database.
-
-
 ## 📖  How to Download the Project and Run on your PC?
 
 ### Pre-Requisites:
